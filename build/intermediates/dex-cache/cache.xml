@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Android/Torchi/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Android/Torchi/app/build/intermediates/pre-dexed/debug/classes-f5105ce2446400178ea17257c7b0ae9efb39dadc.jar" />
+    </item>
+
+</items>
